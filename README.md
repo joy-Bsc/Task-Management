@@ -3,9 +3,17 @@
 ## Overview
 
 This is a MERN (MongoDB, Express.js, React.js, Node.js) stack application. The project is designed to showcase a full-stack web application with a RESTful API, user authentication, and a responsive front-end interface.
-
+## previews
+![Screenshot (8)](https://github.com/user-attachments/assets/9156e5a4-f83d-4300-8db7-4277c2b60d3a)
+![Screenshot (9)](https://github.com/user-attachments/assets/91cebe80-a4ef-4921-9793-ea948a02196a)
+![Screenshot (10)](https://github.com/user-attachments/assets/a8cd02b0-3ffd-4508-8510-2ef36d7cdd93)
+![Screenshot (2)](https://github.com/user-attachments/assets/2c1c4aeb-bbe2-4b4f-804b-b2b00aedaf04)
+![Screenshot (3)](https://github.com/user-attachments/assets/ede518d4-2f60-4015-a64e-a49c41544279)
+![Screenshot (4)](https://github.com/user-attachments/assets/67583a03-83cd-4df1-b533-70339079804f)
+![Screenshot (5)](https://github.com/user-attachments/assets/ac5e6ad0-854a-4aef-b641-1171646a402f)
+![Screenshot (6)](https://github.com/user-attachments/assets/39fc6583-b9aa-4449-82b5-7474bc6cd225)
+![Screenshot (7)](https://github.com/user-attachments/assets/0451b353-22f0-4cec-999a-c94be95cce12)
 ## Features
-
 - User authentication (Sign up, Login, Logout)
 - CRUD operations (Create, Read, Update, Delete)
 - RESTful API with Express.js
